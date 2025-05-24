@@ -1,0 +1,12 @@
+{
+    "name": "ExpensiveWorkerStorage",
+    "version": "1.0.0",
+    "title": "Ancient Research",
+    "author": "DerLolli",
+    "factorio_version": "2.0",
+    "dependencies": [
+        "base >= 2.0.0",
+        "? space-age >= 2.0.0"
+    ],
+    "description": "This mod adds a new infinite research that increases worker robot storage. This mod already exists but this mod uses slight adjusted numbers to be more 'balanced'"
+}
